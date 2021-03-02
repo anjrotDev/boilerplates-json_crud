@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "nombre": "Jhon",
+      "apellido": "Doe",
+      "edad": 25,
+      "email": "jhon@jhon.com",
+      "id": 1
+    },
+    {
+      "nombre": "Jhon",
+      "apellido": "Doe",
+      "edad": 25,
+      "email": "jhon@jhon.com",
+      "id": 2
+    },
+    {
+      "nombre": "Jhon",
+      "apellido": "Doe",
+      "edad": 25,
+      "email": "jhon@jhon.com",
+      "id": 3
+    },
+    {
+      "nombre": "Jhon",
+      "apellido": "otro apellid",
+      "edad": 30,
+      "email": "jhon@jhon.com",
+      "id": 20
+    },
+    {
+      "nombre": "david",
+      "apellido": "otro apellid",
+      "edad": 30,
+      "email": "jhon@gmail.com",
+      "id": 30
+    }
+  ]
+}
